@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Missing",
+  "base_artist": "Vaundy",
+  "createdAt": "2025-12-06T07:16:50.507422Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shahla's Missing Page",
+      "artist": "Amanda Palmer, Edward Ka-Spel",
+      "has_synced": true,
+      "path": "select/01_Shahla's_Missing_Page_Amanda_Palmer,_Edward_Ka-Spel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shahla's Missing Page",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/02_Shahla's_Missing_Page_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "He Ain't Worth Missing",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/03_He_Ain't_Worth_Missing_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "He Ain't Worth Missing (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/04_He_Ain't_Worth_Missing_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Me Missing You",
+      "artist": "Craig Campbell",
+      "has_synced": false,
+      "path": "select/05_Me_Missing_You_Craig_Campbell.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Missing One",
+      "artist": "Jameson Rodgers",
+      "has_synced": true,
+      "path": "select/06_Missing_One_Jameson_Rodgers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Missing You",
+      "artist": "Lauren Weintraub",
+      "has_synced": true,
+      "path": "select/07_Missing_You_Lauren_Weintraub.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Missing You",
+      "artist": "Larry Heard",
+      "has_synced": false,
+      "path": "select/08_Missing_You_Larry_Heard.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Going Missing",
+      "artist": "Maxïmo Park",
+      "has_synced": true,
+      "path": "select/09_Going_Missing_Maxïmo_Park.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Someone's Missing",
+      "artist": "MGMT",
+      "has_synced": false,
+      "path": "select/10_Someone's_Missing_MGMT.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Missing (Ultramarine Remix)",
+      "artist": "Everything But the Girl",
+      "has_synced": false,
+      "path": "select/11_Missing_(Ultramarine_Remix)_Everything_But_the_Girl.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Missing Person",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/12_Missing_Person_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Missing You (feat. Novel) [New Version]",
+      "artist": "David Guetta - Novel",
+      "has_synced": true,
+      "path": "select/13_Missing_You_(feat._Novel)_[New_Version]_David_Guetta_-_Novel.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Missing You (new version)",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/14_Missing_You_(new_version)_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Missing You (radio edit)",
+      "artist": "Alex Gaudino feat. Nicole Scherzinger",
+      "has_synced": false,
+      "path": "select/15_Missing_You_(radio_edit)_Alex_Gaudino_feat._Nicole_Scherzinger.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Missing",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_Missing_Vaundy.txt"
+    }
+  ]
+}
