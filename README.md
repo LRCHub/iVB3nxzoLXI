@@ -1,0 +1,56 @@
+# Vaundy – Missing
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+朱く染まる空 夜の合図が
+今日も僕らを駆り立ててく
+壁にもたれた 僕らの唄口ずさめば
+重なって 少し楽になって
+見つかっては ここに逃げ込んで
+笑ったこと 思い出して
+We're missing
+We're missing
+We're missing
+あの火花みたいに 誠実なら
+迷う理由も見つかるのに
+足りない記憶 僕らの唄口ずさめば
+重なって 少し楽になって
+見つかっては ここに逃げ込んで
+笑ったこと 思い出して
+We're missing
+We're missing
+We're missing
+間違って 少し失って
+さまよっては 君に出会って
+笑ったこと 思い出して
+We're missing
+We're missing
+We're missing
+ソーダの中の宝石
+入っていなかった金貨
+たやすく折れたナイフ
+羽の付いた髪飾り
+一滴の水で泳ぐ
+勝算みたいなもの
+あたたかい毛布も
+大切なんだ
+重なって 少し楽になって
+見つかっては ここに逃げ込んで
+笑ったこと 思い出して
+We're missing
+We're missing
+We're missing
+間違って少し失って
+さまよっては 君に出会って
+笑ったこと 思い出して
+We're missing,We're missing
+We're missing,We're missing
+We're missing
+You
+Since you left,
+we still can't sleep at night
+We're missing
+We're missing
+We're missing
+```
